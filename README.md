@@ -23,50 +23,46 @@
 
 <br/>
 
-<table style="border: none; width: 100%;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none;">
-      <h2>👨🏻‍💻 About Me</h2>
-      I am a passionate software engineer specializing in <b>React Native</b>, <b>React.js</b>, and <b>Next.js</b>. I focus on building scalable architectures, optimizing performance, and delivering pixel-perfect user experiences for both web and mobile platforms.
-      <br/><br/>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Pushpin.png" alt="Pushpin" width="20" height="20" style="vertical-align: middle;" /> &nbsp;<b>Currently based in:</b> Pakistan</li>
-        <br/>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="20" height="20" style="vertical-align: middle;" /> &nbsp;<b>Currently working on:</b> Enterprise Mobile Apps</li>
-        <br/>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" style="vertical-align: middle;" /> &nbsp;<b>Currently learning:</b> AI Integrations & System Design</li>
-        <br/>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" height="20" style="vertical-align: middle;" /> &nbsp;<b>Ask me about:</b> React Native, Redux, TypeScript</li>
-        <br/>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="20" height="20" style="vertical-align: middle;" /> &nbsp;<b>Fun fact:</b> I love solving complex UI/UX challenges!</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top" style="border: none;">
-      <h2>🛠️ My Tech Arsenal</h2>
-      <p><b>Mobile & Frontend</b><br/>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <p><b>Backend & Database</b><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p><b>Tools & AI</b><br/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChatGPT_API-74AA9C?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 👨🏻‍💻 About Me
+
+I am a passionate software engineer specializing in **React Native**, **React.js**, and **Next.js**. I focus on building scalable architectures, optimizing performance, and delivering pixel-perfect user experiences for both web and mobile platforms.
+
+- 📍 **Currently based in:** Pakistan
+- 💼 **Currently working on:** Enterprise Mobile Apps
+- 🚀 **Currently learning:** AI Integrations & System Design
+- 💡 **Ask me about:** React Native, Redux, TypeScript
+- 🎯 **Fun fact:** I love solving complex UI/UX challenges!
 
 <br/>
+
+## 🛠️ My Tech Arsenal
+
+<br/>
+
+**Mobile & Frontend**<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br/><br/>
+
+**Backend & Database**<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br/><br/>
+
+**Tools & AI**<br/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT_API-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=flat-square" />
+
+<br/><br/>
 
 ## 📈 GitHub Analytics
 
