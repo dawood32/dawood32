@@ -30,8 +30,8 @@
 
 I specialise in building **cross-platform mobile applications** with React Native and Expo, with deep expertise in native module bridging, performance optimisation, and scalable architecture. As a Tech Lead, I manage the full mobile engineering lifecycle — from sprint planning and daily standups to cross-functional collaboration with designers, backend engineers, and project managers.
 
-- 📱 **5+ years** building production-grade iOS & Android applications
-- 🏗️ **20+ apps shipped** — from MVP through App Store & Play Store deployment
+- 📱 **4+ years** building production-grade iOS & Android applications
+- 🏗️ **10+ apps shipped** — from MVP through App Store & Play Store deployment
 - 👥 **Mobile Tech Lead** — managing and mentoring a team of mobile developers
 - 🔗 **Cross-functional liaison** — daily collaboration with design, backend, and PM teams
 - 🗓️ **Delivery ownership** — standups, sprint planning, code review, and progress tracking
@@ -121,13 +121,13 @@ I specialise in building **cross-platform mobile applications** with React Nativ
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawoodZia&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawood32&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DawoodZia&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=dawood32&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 </div>
 
 <div align="center">
