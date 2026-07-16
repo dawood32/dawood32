@@ -5,17 +5,17 @@
   <h2 align="center">🚀 Senior Software Engineer | Tech Lead | React Native Developer</h2>
 
   <p align="center">
-    I'm a results-driven software engineer and tech lead with 5+ years of experience architecting and delivering cross-platform mobile products at scale. I lead mobile engineering teams end-to-end — driving daily standups, aligning cross-functional stakeholders, and owning technical decisions from architecture through App Store deployment. With 20+ production apps shipped across iOS and Android, I combine strong hands-on engineering with the leadership and communication skills to keep teams unblocked and shipping consistently.
+    I'm a results-driven software engineer and tech lead with 4+ years of experience architecting and delivering cross-platform mobile products at scale. I lead mobile engineering teams end-to-end — driving daily standups, aligning cross-functional stakeholders, and owning technical decisions from architecture through App Store deployment. With 20+ production apps shipped across iOS and Android, I combine strong hands-on engineering with the leadership and communication skills to keep teams unblocked and shipping consistently.
   </p>
 
   <p align="center">
     <a href="https://linkedin.com/in/dawoodzia">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:dawoodzia@example.com">
+    <a href="mailto:dawoodzia711@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/DawoodZia">
+    <a href="https://github.com/dawood32">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
@@ -111,10 +111,10 @@ I specialise in building **cross-platform mobile applications** with React Nativ
   <table style="border-collapse: collapse; border: none; width: 100%;">
     <tr style="border: none;">
       <td style="border: none; width: 50%;" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=DawoodZia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=dawood32&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
       </td>
       <td style="border: none; width: 50%;" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodZia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawood32&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
       </td>
     </tr>
   </table>
