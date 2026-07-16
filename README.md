@@ -20,7 +20,7 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=5%2B+Years+Building+Production+Apps;Mobile+Tech+Lead;Cross-Platform+Mobile+Development;Clean+Architecture+%26+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=4%2B+Years+Building+Production+Apps;Mobile+Tech+Lead;Cross-Platform+Mobile+Development;Clean+Architecture+%26+Performance" />
 
 </div>
 
